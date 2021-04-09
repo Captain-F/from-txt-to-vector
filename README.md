@@ -3,6 +3,7 @@ A python package to convert txts to inputs accepted by deep learning models
 
 ## 1. 介绍
 * 核心功能是将.txt的文本直接转换为深度序列模型接受的输入
+* 支持NER任务（后续支持分类任务...）
 * 支持word2vec模型训练与特征抽取
 * 支持BERT特征抽取
 
